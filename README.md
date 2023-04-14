@@ -1,2 +1,2 @@
 # CurrencyConvertorApplet
-CurrencyConversion from BGLEV to GBP using Java swing
+CurrencyConversion from BGN to GBP using Java swing
